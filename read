@@ -1,0 +1,4 @@
+Save as license_manager_ui.py.
+Install dependencies: pip install pandas openpyxl.
+Update EXCEL_PATH to your Excel file if needed.
+Run: python license_manager_ui.py
